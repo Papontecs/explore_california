@@ -1,0 +1,4 @@
+file_to_ignore.txt
+*.txt
+*.zip
+*.gz
